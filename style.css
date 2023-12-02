@@ -125,15 +125,15 @@ html {
     -webkit-box-shadow: -15px 20px 1px #3BBADB;
     -o-box-shadow: -15px 20px 0px  #3BBADB;
     
-    border-bottom-left-radius:100px;
+    border-bottom-left-radius:140px;
     margin: auto 0;
     border: none;
    
   }
   img{
-    width:300px;height: 370px;
+    width:330px;height: 370px;
 
-    border-bottom-left-radius:100px;
+    border-bottom-left-radius:140px;
 
   }
   
